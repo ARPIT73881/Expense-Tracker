@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://expense-tracker-getarpit.netlify.app/" target="_blank"><img src="https://i.ibb.co/8gtBf8H/expense-tracker.png" alt="Main-Cover" border="0"></a>
+   <a href="https://expense-tracker-getarpit.netlify.app/" target="_blank"><img src="https://github.com/user-attachments/assets/98a5721c-f2f9-4cfa-8575-e3f1e5749240" alt="Main-Cover" border="0"></a>
   <br />
 
 # [Expense Tracker](https://expense-tracker-getarpit.netlify.app/)
